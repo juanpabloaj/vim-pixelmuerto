@@ -1,5 +1,5 @@
 " Vim color file:  pixelmuerto.vim
-" Maintainer: pixelmuerto 
+" Maintainer: pixelmuerto
 " License: public domain
 " Version: 0.1
 " Based: Heavily based on 'xoria' and calmar256-dark color scheme.
@@ -105,7 +105,7 @@ let s:colors256 = [
             \ ["Number",        "", 	 "180",   "",  "",         ""   ],
             \ ["PreProc",       "",     "182",  "",     "",         ""   ],
             \ ["Special",       "",     "147",   "",  "",         ""   ],
-            \ ["SpecialChar",   "",     "173",  "",     "",         ""   ],
+            \ ["SpecialChar",   "",     "127",  "",     "",         ""   ],
             \ ["Statement",     "",     "74",   "",     "",         ""   ],
             \ ["Todo",          "", "216",   "234",  "",         ""   ],
             \ ["Type",          "",     "146",   "",     "",         ""   ],
@@ -115,7 +115,7 @@ let s:colors256 = [
 let s:colorvim7 = [
             \ ["Pmenu",         "",     "",  "246",  "",         ""   ],
             \ ["SignColumn",         "",     "",  "0",  "",         ""   ],
-            \ ["PmenuSel",      "", 	 "",  "243",  "",         ""   ],
+            \ ["PmenuSel",      "", 	 "",  "93",  "",         ""   ],
             \ ["PmenuSbar",     "",     "",  "243",   "",         ""   ],
             \ ["PmenuThumb",    "",     "bg",   "252",   "",         ""   ],
             \ ["SpellBad",      "none", 	 "124",	"",     "undercurl","160"],
